@@ -4,9 +4,11 @@ You can click the Preview link to take a look at your changes.
 --->
 ### Olá, eu sou Katherine
 
-:blossom: Estou no 2° semestre de Análise e Desenvolvimento de Sistemas na Universidade Paulista (EAD)
+:blossom: Estudante de Análise e Desenvolvimento de Sistemas 3º período na Universidade Paulista (EAD)
 
-:blossom: Atualmente curso Desenvolvimento Web Back-End Node.js na [Digital House](https://www.digitalhouse.com/br)
+:blossom: Cursando Desenvolvimento Back-End Node.js na [Digital House](https://www.digitalhouse.com/br)
+
+:blossom: Atualmente estagiando em Desenvolvimento
 
 :blossom: Pronomes: Ela/Dela
 
