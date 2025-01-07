@@ -1,16 +1,25 @@
-<!---
-hanakathy/hanakathy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 ### Olá, eu sou Katherine
 
-:blossom: Estudante de Análise e Desenvolvimento de Sistemas 4º período na Universidade Paulista (EAD)
+:blossom: Ela/Dela
 
-:blossom: Atualmente estagiando em Desenvolvimento com Java e Kotlin
+:blossom: Sou desenvolvedora Back-end Java
 
-:blossom: Pronomes: Ela/Dela
+:blossom: Tenho graduação em Análise e Desenvolvimento de Sistemas
 
-<!---  <a href="https://www.linkedin.com/in/katherine-m-a2786a200/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> --->
-  
-  [![](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/katherine-m-a2786a200/)[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hanakathy)
+:blossom: Atualmente trabalho desenvolvendo uma api em Java e Kotlin
 
+<!-- Hard Skills -->
+![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,dotnet,javascript,nodejs,angular)
+
+<!-- Tools -->
+![My Skills](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![My Skills](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![My Skills](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![My Skills](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
+![My Skills](https://img.shields.io/badge/Jenkins-49728B?style=for-the-badge&logo=jenkins&logoColor=white)
+![My Skills](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![My Skills](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+![My Skills](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![My Skills](https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black)
+![My Skills](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
+![My Skills](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
