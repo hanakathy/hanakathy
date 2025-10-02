@@ -52,7 +52,7 @@
 <!-- Freelance profiles --> 
 [![Tools](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://br.fiverr.com/sellers/kath_martins/)
 [![Tools](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)](https://www.br.freelancer.com/u/katherineam33)
-![Tools](https://img.shields.io/badge/Indeed-003A9B?style=for-the-badge&logo=Indeed&logoColor=white)
+<!-- Arc https://arc.dev/@khanam -->
 [![Tools](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://upwork.com/freelancers/~01b034d7e373c46ae0)
 
 <!-- Personal chanel -->
