@@ -10,17 +10,19 @@
 
 :blossom: Conhecimento e experiência nas linguagens Java e Kotlin e em Gerenciamento de Identidade e Acessos
 
-:blossom: Amo meus gatos, café no fim da tarde e conhecer lugares novos
+:blossom: Amo meus gatos, um café no fim da tarde e conhecer lugares novos
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hanakathy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hanakathy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=hanakathy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hanakathy&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-<picture>
+<!-- Pacman -->
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hanakathy/hanakathy/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hanakathy/hanakathy/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hanakathy/hanakathy/output/pacman-contribution-graph.svg">
-</picture>
+</picture> -->
 
 ### Habilidades
 <!-- Hard Skills -->
@@ -59,10 +61,8 @@
 ![Tools](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
 ![Tools](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
-###
-
 <!-- img da hello kitty no pc -->
-<img align="right" height="150" src="/images/hellokitty-trabalhando.jpg"  />
+<img align="right" height="180" src="/images/hellokitty-trabalhando.jpg"  />
 
 ### Contate-me
 <!-- Freelance profiles --> 
@@ -77,5 +77,3 @@
 <!-- E-mail -->
 [![Contacts](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](emailto:khanamartins@gmail.com)
 [![Contacts](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/katherine-m-a2786a200/)
-
-<br clear="both">
